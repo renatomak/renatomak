@@ -1,4 +1,8 @@
-### Olá! 👋
+### Olá! 👋, me chamo **Renato Marques**, sou de Goiânia-GO, formado em Administração em Análise de Sistemas e atualmente estudando Desenvolvimento Web na Trybe** 🚀. 
+
+<br />
+<br />
+
 <a href="https://github.com/renatomak" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="80px" height="80px">
 </a> 
@@ -15,7 +19,7 @@
 <br />
 <br />
 
-Olá, me chamo **Renato Marques**, sou de Goiânia-GO, formado em Administração em Análise de Sistemas e atualmente estudando Desenvolvimento Web na Trybe** 🚀. 
+
 
 Here are some ideas to get you started:
 

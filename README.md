@@ -13,9 +13,6 @@
 <a href="https://www.linkedin.com/in/renato-marques-desenvolvedor-web-emformacao/" target="_blank">
  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px">
 </a>  &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://www.facebook.com/renato.marques.98478672" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="50px" height="50px">
-</a>  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://renatomak.github.io/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_git_opened_icon_129963.png" width="50px" height="50px">
 </a>

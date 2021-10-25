@@ -29,9 +29,10 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/socketio_logo_icon_168806.png" alt="socketio" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;" />   &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="sass" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Aprendendo
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="sass" width="40" height="40" style="max-width:100%;" />   &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nest_middleware_js_icon_130363.png" alt="NestJS" width="40" height="40" style="max-width:100%;" />   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Minhas outras habilidades

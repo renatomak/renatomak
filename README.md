@@ -32,7 +32,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="sass" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Aprendendo
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nest_middleware_js_icon_130363.png" alt="NestJS" width="40" height="40" style="max-width:100%;" />   &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="VueJS" width="40" height="40" style="max-width:100%;" />   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Minhas outras habilidades

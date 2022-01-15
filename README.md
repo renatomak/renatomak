@@ -32,8 +32,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="sass" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Aprendendo
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="VueJS" width="40" height="40" style="max-width:100%;" />   &nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;" />   &nbsp;
+<img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Minhas outras habilidades
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="jest" width="40" height="40" style="max-width:100%;" />  &nbsp;   &nbsp;   &nbsp;   &nbsp;

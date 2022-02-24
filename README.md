@@ -9,7 +9,7 @@
 <a href="https://github.com/renatomak" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/github_logo_icon_169115.png" width="50px" height="50px">
 </a>  &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://www.linkedin.com/in/renato-marques-desenvolvedor-web-emformacao/" target="_blank">
+<a href="https://www.linkedin.com/in/renatomar-dev-web/" target="_blank">
  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px">
 </a>  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://renatomarques-portfolioweb.netlify.app/" target="_blank">

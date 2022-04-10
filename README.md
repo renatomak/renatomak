@@ -23,6 +23,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
+<img src="https://www.pinpng.com/pngs/m/510-5100567_react-native-svg-transformer-allows-you-import-svg.png" alt="React Native" width="40" height="40" style="max-width:100%;" />   &nbsp; &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="nodejs" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
@@ -30,6 +31,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="40" height="40" style="max-width:100%;" />  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;" />   &nbsp; &nbsp;   &nbsp;   &nbsp;
+
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="sass" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Aprendendo

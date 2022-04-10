@@ -28,7 +28,8 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="nodejs" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/socketio_logo_icon_168806.png" alt="socketio" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="40" height="40" style="max-width:100%;" />   &nbsp;    &nbsp;   &nbsp;   &nbsp;
-<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;" />   &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="40" height="40" style="max-width:100%;" />  &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;" />   &nbsp; &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="sass" width="40" height="40" style="max-width:100%;" />   &nbsp;
 
 ## Aprendendo
@@ -37,7 +38,6 @@
 ## Minhas outras habilidades
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="jest" width="40" height="40" style="max-width:100%;" />  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img src="https://testing-library.com/img/octopus-64x64.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>  &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="40" height="40" style="max-width:100%;" />  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSql" width="40" height="40" style="max-width:100%;" />  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/trello_plain_wordmark_logo_icon_146320.png" alt="trello" width="40" height="40" style="max-width:100%;" />   &nbsp;
 <br />

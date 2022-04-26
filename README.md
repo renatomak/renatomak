@@ -11,7 +11,8 @@
 </a>  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://www.linkedin.com/in/renatomar-dev-web/" target="_blank">
  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px">
-</a>  &nbsp;   &nbsp;   &nbsp;   &nbsp;
+</a>  &nbsp;   &nbsp;   &nbsp;
+
 <a href="https://renatomarques-portfolioweb.netlify.app/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_git_opened_icon_129963.png" width="50px" height="50px">
 </a>
